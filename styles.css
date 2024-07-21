@@ -15,7 +15,8 @@ html {
   scroll-behavior: smooth;
 }
 
-p {
+p
+ {
   color: rgb(85, 85, 85);
 }
 
@@ -27,10 +28,9 @@ a,
 }
 
 /* DESKTOP NAV */
-
 nav,
 .nav-links {
-  display: flex;
+    display: flex;
 }
 
 nav {
