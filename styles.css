@@ -15,7 +15,8 @@ html {
   scroll-behavior: smooth;
 }
 
-p {
+p
+ {
   color: rgb(85, 85, 85);
 }
 
@@ -27,20 +28,7 @@ a,
 }
 
 /* DESKTOP NAV */
-
 nav,
 .nav-links {
-  display: flex;
-}
-
-nav {
-  justify-content: space-around;
-  align-items: center;
-  height: 17vh;
-}
-
-.nav-links {
-  gap: 2rem;
-  list-style: none;
-  font-size: 1.5rem;
+    display: flex;
 }
