@@ -260,6 +260,7 @@ a:hover {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  padding: 123px;
 }
 
 .about-containers,
