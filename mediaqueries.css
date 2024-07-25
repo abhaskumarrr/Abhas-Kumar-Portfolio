@@ -45,6 +45,11 @@
   }
   .about-containers {
     margin-top: 0;
+    padding: 5px;
+  }
+
+  .about-details-container {
+    padding: 10px;
   }
 }
 
